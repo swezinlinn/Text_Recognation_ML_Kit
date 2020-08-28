@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "172070759295",
+    "firebase_url": "https://mlkit-6d395.firebaseio.com",
+    "project_id": "mlkit-6d395",
+    "storage_bucket": "mlkit-6d395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172070759295:android:8acbb79018732d36",
+        "android_client_info": {
+          "package_name": "com.example.text_recognation_ml_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172070759295-aokn9ur2q9ns2oseac4cdgtdl0n6l1bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZIGmgqw1CoUwgxYwmjvjO-_duwJ4vMhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172070759295-aokn9ur2q9ns2oseac4cdgtdl0n6l1bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
